@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'apps.roles',
     'apps.recursos',
     'apps.reservas',
+    'apps.usuarios'
 ]
 
 MIDDLEWARE = [
